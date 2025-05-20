@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    color:rgb(56, 6, 219);
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+h1, h3, h4, h5, h6 {
+    color:rgb(0, 140, 255);
+    font-size: medium;
+}
+
+h2 {
+    color:rgb(179, 99, 8);
+}
+
+ul {
+    /* display:flex; */
+    gap: 10 px;
+    font-style: italic;
+    list-style: none;
+}
+li {
+    font-variant: small-caps;
+      
+}
+ol {
+    /* display:flex; */
+    gap: 10 px;
+    font-style: bold;
+
+}
+body { 
+    background-color: rgb(93, 182, 250) ;
+    font-size: medium;
+}
+
+#cabecera {
+    color: rgb(245, 229, 6) ;
+}
+.lyric-song{
+    color: rgb(188, 106, 12) ;
+
+}
